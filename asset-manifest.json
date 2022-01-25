@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/pubquiz-react-typescript/static/js/main.42c37e84.js",
+    "static/media/randompubbg.jpg": "/pubquiz-react-typescript/static/media/randompubbg.3092af6b4f60d64e587c.jpg",
+    "index.html": "/pubquiz-react-typescript/index.html",
+    "main.42c37e84.js.map": "/pubquiz-react-typescript/static/js/main.42c37e84.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.42c37e84.js"
+  ]
+}
